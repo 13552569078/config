@@ -1,0 +1,44 @@
+UI 地址
+
+https://lanhuapp.com/web/#/item/project/stage?pid=d702b868-14d2-4fd3-b4a9-a5acc294e871&image_id=06d8246d-f685-4321-93a0-b8716cd035e5&tid=5fd7de54-5cb2-4341-aa06-f0e33c399d24
+
+
+部署  武汉得 正式环境
+https://wiki.cestc.cn/pages/viewpage.action?pageId=257803601
+部署路径
+/opt/cestc_web_https/ai-chat-room-h5
+
+演示版本：ai-chat-room-h5 替换为 play-chat-room-h5 重新打包部署
+https://ybt.cestc-zdzk.com/play-ai-chat-room-h5/#/ 
+
+武汉环境外网地址：
+https://ybt.cestc-zdzk.com/ai-chat-room-h5/#/?message=%E5%A6%82%E4%BD%95%E5%8A%9E%E7%90%86%E7%BB%93%E5%A9%9A%E8%AF%81
+北京环境地址：
+
+
+国际版： 不选择穿透
+vpn下载地址：https://119.36.232.2:6443  （用ie浏览器打开）
+登录vpn的ip及端口：119.36.232.2:6443
+账号/密码：
+liuchuang    liu260859  当前可用
+
+链接xftp  11.1.10.193    ioc/cestc@123456   不能使用root  
+
+https://119.36.232.2:6443
+
+
+git地址：
+https://code.cestc.cn/fanxingdept/AICenter/front/ai-chat-room-h5.git
+
+
+测试地址：http://182.92.112.254:680/
+
+
+prompt字段改成字典把，{type: int, content: str}， 0-点选，1-文本输入
+
+{'type':1, 'content': []}
+纯文本：1， 选项卡：2，详情：3,  层级展示：4
+
+
+后端仓库：https://code.cestc.cn/fanxingdept/AICenter/back/ai-chat-room-server.git
+前端仓库：https://code.cestc.cn/fanxingdept/AICenter/front/ai-chat-room-h5.git

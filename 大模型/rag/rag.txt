@@ -1,0 +1,67 @@
+token:  60213cdbb3a340708081b4e89c5124e5
+
+http://8.130.16.234/
+要输入口令：
+60213cdbb3a340708081b4e89c5124e5
+
+
+
+前端git地址：https://code.cestc.cn/starsai/StarsAIFoundation/RAG/rag-frontend
+
+import { PlusOutlined } from "@ant-design/icons";
+import React from "react";
+
+const Chat: React.FC = () => {
+  return <div>Chat</div>;
+};
+
+export default Chat;
+
+
+状态state库
+https://zustand-demo.pmnd.rs/
+
+ahook
+https://ahooks.js.org/zh-CN/hooks/use-set-state
+
+请求：
+react-query
+
+
+css:
+tailwindcss
+
+UI：
+https://mastergo.com/file/94772609951350?fileOpenFrom=project&page_id=1564%3A047005
+https://mastergo.com/file/94772609951350?fileOpenFrom=project&page_id=1564%3A047005
+
+接口地址
+http://10.56.183.56:8777/  刘帅本地
+http://10.56.180.55:8777/  肖峰本地
+
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "npm run lint-staged"
+    }
+  },
+
+npx eslint --ext .js,.jsx,.ts,.tsx . --fix
+
+
+"build": "tsc && vite build",
+
+
+
+server {  
+    listen 80;  
+    server_name yourdomain.com;  
+  
+    location / {  
+        root /path/to/your/server/app; # 修改这里为你的实际路径  
+        index index.html index.htm;  
+        try_files $uri $uri/ /app/index.html; # 注意这里的 /app/index.html  
+    }  
+  
+    # 其他配置...  
+}

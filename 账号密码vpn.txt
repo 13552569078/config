@@ -1,0 +1,77 @@
+小客车摇号 13552569078  9852521Aa.
+
+npm
+zhj19920319  9852521Aa.
+git
+13552569078@163.com  9852521Aa
+
+lab 部门/jecnes     zhanghongjie  Aa1520165!  
+禅道   zhanghongjie      Aa1520165!
+yapi zhanghongjie@cestc.cn  9852521Aa
+住建委： 13552569078  9852521Aa.
+OA zhanghongjie 9852521Aa.
+
+邮箱 zhanghongjie     9852521Aa.
+公司的git及wiki地址    git  zhanghongjie   9852521Aa.
+
+
+wiki、gitlab、vpn、CDP 、OA、csp、CBS(BOM)、网络准入、禅道、新绩效管理系统，PMIS系统，乐道社区,费控系统，工时系统，消息中心    
+以上系统为统一的账户密码
+
+http://smartcity.dev-xixian.etcc.group/h5-fire-exits
+http://smartcity.dev-xixian.etcc.group/h5-fire-exits/manage-index
+http://smartcity.dev-xixian.etcc.group/pc-fire-exits
+
+http://swan.dev-lixia.etcc.group/login
+lixiaadmin
+Aa_123456
+
+
+zhj_role1   监督管理   123456
+zhj_role2   物业端123456
+zhj_role3   公众端123456
+
+https://wiki.cestc.cn/pages/viewpage.action?pageId=142140460
+jenkins地址和页面访问地址都在wiki里面
+公司的git及wiki地址    git  zhanghongjie   9852521AaBb..aa
+http://www.jczhdev.etcc.group/jenkins
+
+vpn: zhanghongjie   9852521AaBb..aa
+https://xtlvpn.cestc.cn/portal/#!/login
+第一步登录ldap地址http://122.190.238.113:8181/ 邮箱找回密码 (此LDAP是总部的，不是我们部门的，请悉知。)
+第二步 登录VPN https://xtlvpn.cestc.cn/portal/#!/login
+拉代码 先登录https://code.cestc.cn/ 再拉代码
+
+
+公司得打板地址  zhanghongjie   9852521AaBb..aa
+http://www.jczhdev.etcc.group/jenkins/login?from=%2Fjenkins%2F
+
+项目模板已经移到：https://code.cestc.cn/jcyzh/at/front/templates  这里了。目前PC端的webpack和vite模板都可用了
+
+
+http://nexus.cestc.cn/repository/fx-npm-hosted/
+
+账号是公用的：
+
+繁星-公共开发部nexus仓库账户信息： 
+
+用户名：fanxing_nexus
+密码：q84FWYADd2^VD180}r81
+
+
+翻墙软件
+https://www.vcmiao.com/
+https://xn--888-ok4b9e.xn--jh1al63br2c.com/
+https://xn--111-ok4b9e.xn--jh1al63br2ca.com/
+13552569078@163.com  9852521Aa
+
+谷歌账号：
+zhanghongjie155@gmail.com  01234Aa.   13552569078
+gaozimin1993@gmail.com   1234ABCD.    18330032551
+huangliang19930407@gmail.com     1234ABCD.
+
+chatgpt
+zhaozhong3@hotmail.com    Johnz84226!
+
+
+谷歌长截屏  打开f12   Ctr+Shift+P  full 选择打印全部屏幕即可

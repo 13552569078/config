@@ -1,0 +1,35 @@
+接口文档 
+http://10.56.180.64:8091/doc.html#/home
+
+
+开发环境：
+登录地址：
+12500011110
+nE>v1@bb
+
+本地开发
+ai.manage.web  local中存入token
+
+
+
+
+部署地址：和数智网格员地址一样 目录为
+
+ai-manage-web
+
+
+部署路径
+/opt/cestc_web_https/ai-manage-web
+
+
+
+VPN登录
+国际版： 不选择穿透
+vpn下载地址：https://119.36.232.2:6443  （用ie浏览器打开）
+登录vpn的ip及端口：119.36.232.2:6443
+账号/密码：
+liuchuang    liu260859  当前可用
+
+链接xftp  11.1.10.193    ioc/cestc@123456   不能使用root  
+
+https://119.36.232.2:6443
